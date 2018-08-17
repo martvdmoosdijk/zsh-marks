@@ -1,0 +1,4 @@
+#compdef unmark
+
+local wordlist=$(find $MARKPATH -type l | xargs -L 1 basename)
+_arguments "1: :($wordlist)"
