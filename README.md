@@ -24,7 +24,7 @@ Source or restart your terminal
 ## How to use
 
 * `marks` - Show your saved bookmarks
-* `mark [directory] [name]` - Saves the directory under the given name
+* `mark [name]` - Saves the current directory under the given name
 * `unmark [name]` - Removes the mark
 * `goto [name]` - Goes to the mark
 
