@@ -30,6 +30,7 @@ Source or restart your terminal
 
 ## Other info
 
+* Auto suggestions are present.
 * Marks are saved in the `MARKPATH` ($HOME/.marks).
 
 
